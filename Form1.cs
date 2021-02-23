@@ -946,7 +946,7 @@ namespace Graphics
             int ymax = int.Parse(textBox39.Text);
             cohen(x1, y1, x2, y2, xmin, ymin, xmax, ymax);
         }
-        Rectangle rec = new Rectangle(50, 50, 100, 100);
+        //Rectangle rec = new Rectangle(50, 50, 100, 100);
         private void button26_Click(object sender, EventArgs e)
         {
             int xmin = int.Parse(textBox36.Text);
