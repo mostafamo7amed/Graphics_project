@@ -1,0 +1,69 @@
+c:\users\m-b 21-7-2017\documents\visual studio 2012\Projects\Graphics\Graphics\bin\Debug\Graphics.exe.config
+c:\users\m-b 21-7-2017\documents\visual studio 2012\Projects\Graphics\Graphics\bin\Debug\Graphics.exe
+c:\users\m-b 21-7-2017\documents\visual studio 2012\Projects\Graphics\Graphics\bin\Debug\Graphics.pdb
+c:\users\m-b 21-7-2017\documents\visual studio 2012\Projects\Graphics\Graphics\obj\Debug\Graphics.csprojResolveAssemblyReference.cache
+c:\users\m-b 21-7-2017\documents\visual studio 2012\Projects\Graphics\Graphics\obj\Debug\Graphics.Form1.resources
+c:\users\m-b 21-7-2017\documents\visual studio 2012\Projects\Graphics\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+c:\users\m-b 21-7-2017\documents\visual studio 2012\Projects\Graphics\Graphics\obj\Debug\Graphics.csproj.GenerateResource.Cache
+c:\users\m-b 21-7-2017\documents\visual studio 2012\Projects\Graphics\Graphics\obj\Debug\Graphics.exe
+c:\users\m-b 21-7-2017\documents\visual studio 2012\Projects\Graphics\Graphics\obj\Debug\Graphics.pdb
+c:\users\m-b 21-7-2017\documents\visual studio 2012\Projects\Graphics\Graphics\obj\Debug\Graphics.SHOWDATA.resources
+F:\DOC-20180512-WA0000\Graphics\Graphics\bin\Debug\Graphics.exe.config
+F:\DOC-20180512-WA0000\Graphics\Graphics\obj\Debug\Graphics.exe
+F:\DOC-20180512-WA0000\Graphics\Graphics\obj\Debug\Graphics.pdb
+F:\DOC-20180512-WA0000\Graphics\Graphics\bin\Debug\Graphics.exe
+F:\DOC-20180512-WA0000\Graphics\Graphics\bin\Debug\Graphics.pdb
+F:\DOC-20180512-WA0000\Graphics\Graphics\obj\Debug\Graphics.csprojResolveAssemblyReference.cache
+F:\DOC-20180512-WA0000\Graphics\Graphics\obj\Debug\Graphics.Form1.resources
+F:\DOC-20180512-WA0000\Graphics\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+F:\DOC-20180512-WA0000\Graphics\Graphics\obj\Debug\Graphics.SHOWDATA.resources
+F:\DOC-20180512-WA0000\Graphics\Graphics\obj\Debug\Graphics.csproj.GenerateResource.Cache
+F:\منهج حاسبات ومعلومات\منهج تالتة حاسبات\الترم الثانى\Graphics\Graphics\bin\Debug\Graphics.exe.config
+F:\منهج حاسبات ومعلومات\منهج تالتة حاسبات\الترم الثانى\Graphics\Graphics\obj\Debug\Graphics.exe
+F:\منهج حاسبات ومعلومات\منهج تالتة حاسبات\الترم الثانى\Graphics\Graphics\obj\Debug\Graphics.pdb
+F:\الدراسة\Level 3\الترم الأول\Computer Graphics\Graphics\Graphics\Graphics\bin\Debug\Graphics.exe.config
+F:\الدراسة\Level 3\الترم الأول\Computer Graphics\Graphics\Graphics\Graphics\obj\Debug\Graphics.exe
+F:\الدراسة\Level 3\الترم الأول\Computer Graphics\Graphics\Graphics\Graphics\obj\Debug\Graphics.pdb
+F:\الدراسة\Level 3\الترم الأول\Computer Graphics\المشروع\Graphics\Graphics\bin\Debug\Graphics.exe.config
+F:\الدراسة\Level 3\الترم الأول\Computer Graphics\المشروع\Graphics\Graphics\obj\Debug\Graphics.exe
+F:\الدراسة\Level 3\الترم الأول\Computer Graphics\المشروع\Graphics\Graphics\obj\Debug\Graphics.pdb
+F:\الدراسة\Level 3\الترم الأول\Computer Graphics\المشروع\Graphics\Graphics\bin\Debug\Graphics.exe
+F:\الدراسة\Level 3\الترم الأول\Computer Graphics\المشروع\Graphics\Graphics\bin\Debug\Graphics.pdb
+F:\الدراسة\Level 3\الترم الأول\Computer Graphics\المشروع\Graphics\Graphics\obj\Debug\Graphics.csprojResolveAssemblyReference.cache
+F:\الدراسة\Level 3\الترم الأول\Computer Graphics\المشروع\Graphics\Graphics\obj\Debug\Graphics.Form1.resources
+F:\الدراسة\Level 3\الترم الأول\Computer Graphics\المشروع\Graphics\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+F:\الدراسة\Level 3\الترم الأول\Computer Graphics\المشروع\Graphics\Graphics\obj\Debug\Graphics.SHOWDATA.resources
+F:\الدراسة\Level 3\الترم الأول\Computer Graphics\المشروع\Graphics\Graphics\obj\Debug\Graphics.csproj.GenerateResource.Cache
+C:\Users\العماد\Documents\Visual Studio 2012\Projects\Graphics\Graphics\bin\Debug\Graphics.exe.config
+C:\Users\العماد\Documents\Visual Studio 2012\Projects\Graphics\Graphics\obj\Debug\Graphics.exe
+C:\Users\العماد\Documents\Visual Studio 2012\Projects\Graphics\Graphics\obj\Debug\Graphics.pdb
+C:\Users\العماد\Documents\Visual Studio 2012\Projects\Graphics\Graphics\bin\Debug\Graphics.exe
+C:\Users\العماد\Documents\Visual Studio 2012\Projects\Graphics\Graphics\bin\Debug\Graphics.pdb
+C:\Users\العماد\Documents\Visual Studio 2012\Projects\Graphics\Graphics\obj\Debug\Graphics.Form1.resources
+C:\Users\العماد\Documents\Visual Studio 2012\Projects\Graphics\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+C:\Users\العماد\Documents\Visual Studio 2012\Projects\Graphics\Graphics\obj\Debug\Graphics.SHOWDATA.resources
+C:\Users\العماد\Documents\Visual Studio 2012\Projects\Graphics\Graphics\obj\Debug\Graphics.csproj.GenerateResource.Cache
+C:\Users\العماد\Documents\Visual Studio 2012\Projects\Graphics\Graphics\obj\Debug\Graphics.csprojAssemblyReference.cache
+C:\Users\العماد\Documents\Visual Studio 2012\Projects\Graphics\Graphics\obj\Debug\Graphics.csproj.CoreCompileInputs.cache
+C:\Users\العماد\Desktop\Graphics_algorithms-master\bin\Debug\Graphics.exe.config
+C:\Users\العماد\Desktop\Graphics_algorithms-master\bin\Debug\Graphics.exe
+C:\Users\العماد\Desktop\Graphics_algorithms-master\bin\Debug\Graphics.pdb
+C:\Users\العماد\Desktop\Graphics_algorithms-master\obj\Debug\Graphics.csprojAssemblyReference.cache
+C:\Users\العماد\Desktop\Graphics_algorithms-master\obj\Debug\Graphics.Form1.resources
+C:\Users\العماد\Desktop\Graphics_algorithms-master\obj\Debug\Graphics.Properties.Resources.resources
+C:\Users\العماد\Desktop\Graphics_algorithms-master\obj\Debug\Graphics.SHOWDATA.resources
+C:\Users\العماد\Desktop\Graphics_algorithms-master\obj\Debug\Graphics.csproj.GenerateResource.cache
+C:\Users\العماد\Desktop\Graphics_algorithms-master\obj\Debug\Graphics.csproj.CoreCompileInputs.cache
+C:\Users\العماد\Desktop\Graphics_algorithms-master\obj\Debug\Graphics.exe
+C:\Users\العماد\Desktop\Graphics_algorithms-master\obj\Debug\Graphics.pdb
+C:\Users\العماد\Desktop\Graphics_algorithms\bin\Debug\Graphics.exe.config
+C:\Users\العماد\Desktop\Graphics_algorithms\bin\Debug\Graphics.exe
+C:\Users\العماد\Desktop\Graphics_algorithms\bin\Debug\Graphics.pdb
+C:\Users\العماد\Desktop\Graphics_algorithms\obj\Debug\Graphics.csprojAssemblyReference.cache
+C:\Users\العماد\Desktop\Graphics_algorithms\obj\Debug\Graphics.Form1.resources
+C:\Users\العماد\Desktop\Graphics_algorithms\obj\Debug\Graphics.Properties.Resources.resources
+C:\Users\العماد\Desktop\Graphics_algorithms\obj\Debug\Graphics.SHOWDATA.resources
+C:\Users\العماد\Desktop\Graphics_algorithms\obj\Debug\Graphics.csproj.GenerateResource.cache
+C:\Users\العماد\Desktop\Graphics_algorithms\obj\Debug\Graphics.csproj.CoreCompileInputs.cache
+C:\Users\العماد\Desktop\Graphics_algorithms\obj\Debug\Graphics.exe
+C:\Users\العماد\Desktop\Graphics_algorithms\obj\Debug\Graphics.pdb
